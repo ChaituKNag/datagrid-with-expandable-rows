@@ -79,6 +79,8 @@ export default function App() {
         <Button variant="outlined" onClick={handleCollapseAll}>Collapse all</Button>
       </Grid>
       <DataGrid 
+        disableColumnSorting
+        disableColumnMenu
         rows={filteredRowData} 
         columns={getColumns(handleToggleHeader)} 
         hideFooter
