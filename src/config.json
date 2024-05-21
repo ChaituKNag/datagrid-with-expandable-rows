@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "France",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Paris"
+        },
+        {
+          "id": 2,
+          "name": "Lyon"
+        },
+        {
+          "id": 3,
+          "name": "Marseille"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Germany",
+      "cities": [
+        {
+          "id": 4,
+          "name": "Berlin"
+        },
+        {
+          "id": 5,
+          "name": "Munich"
+        },
+        {
+          "id": 6,
+          "name": "Hamburg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Italy",
+      "cities": [
+        {
+          "id": 7,
+          "name": "Rome"
+        },
+        {
+          "id": 8,
+          "name": "Milan"
+        },
+        {
+          "id": 9,
+          "name": "Naples"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spain",
+      "cities": [
+        {
+          "id": 10,
+          "name": "Madrid"
+        },
+        {
+          "id": 11,
+          "name": "Barcelona"
+        },
+        {
+          "id": 12,
+          "name": "Valencia"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Japan",
+      "cities": [
+        {
+          "id": 13,
+          "name": "Tokyo"
+        },
+        {
+          "id": 14,
+          "name": "Osaka"
+        },
+        {
+          "id": 15,
+          "name": "Kyoto"
+        }
+      ]
+    }
+  ]

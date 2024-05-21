@@ -1,0 +1,100 @@
+[
+    {
+      "countryId": 1,
+      "cityId": 1,
+      "val1": 78.45,
+      "val2": 23.12,
+      "val3": 91.67
+    },
+    {
+      "countryId": 1,
+      "cityId": 2,
+      "val1": 52.89,
+      "val2": 14.78,
+      "val3": 63.21
+    },
+    {
+      "countryId": 1,
+      "cityId": 3,
+      "val1": 84.32,
+      "val2": 39.51,
+      "val3": 77.19
+    },
+    {
+      "countryId": 2,
+      "cityId": 4,
+      "val1": 61.24,
+      "val2": 27.95,
+      "val3": 48.36
+    },
+    {
+      "countryId": 2,
+      "cityId": 5,
+      "val1": 72.58,
+      "val2": 18.42,
+      "val3": 59.73
+    },
+    {
+      "countryId": 3,
+      "cityId": 7,
+      "val1": 45.87,
+      "val2": 9.23,
+      "val3": 32.54
+    },
+    {
+      "countryId": 3,
+      "cityId": 8,
+      "val1": 67.12,
+      "val2": 24.89,
+      "val3": 50.37
+    },
+    {
+      "countryId": 3,
+      "cityId": 9,
+      "val1": 39.48,
+      "val2": 12.71,
+      "val3": 28.95
+    },
+    {
+      "countryId": 4,
+      "cityId": 10,
+      "val1": 54.73,
+      "val2": 17.92,
+      "val3": 41.28
+    },
+    {
+      "countryId": 4,
+      "cityId": 11,
+      "val1": 76.39,
+      "val2": 29.14,
+      "val3": 64.82
+    },
+    {
+      "countryId": 4,
+      "cityId": 12,
+      "val1": 48.52,
+      "val2": 15.47,
+      "val3": 35.79
+    },
+    {
+      "countryId": 5,
+      "cityId": 13,
+      "val1": 89.12,
+      "val2": 31.25,
+      "val3": 74.48
+    },
+    {
+      "countryId": 5,
+      "cityId": 14,
+      "val1": 63.78,
+      "val2": 22.19,
+      "val3": 49.32
+    },
+    {
+      "countryId": 5,
+      "cityId": 15,
+      "val1": 51.45,
+      "val2": 18.36,
+      "val3": 38.71
+    }
+  ]
